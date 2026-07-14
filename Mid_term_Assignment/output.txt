@@ -1,0 +1,40 @@
+Tokenization:
+
+Line 1:
+    void = Keyword1
+    m1 = Identifier1
+    ( = Punctuation1
+    string = Keyword2
+    apple = Identifier2
+    ) = Punctuation2
+    ; = Punctuation3
+
+Line 2:
+    int = Keyword1
+    main = Keyword2
+    { = Punctuation1
+
+Line 3:
+    float = Keyword1
+    y = Identifier1
+
+Line 4:
+    x = Identifier1
+
+Line 5:
+    cout = Keyword1
+    << = Operator1
+
+Line 6:
+    = = Operator1
+    5 = Numeric Constant1
+
+Line 7:
+    2.5 = Numeric Constant1
+
+Line 8:
+    return = Keyword1
+    + = Operator1
+
+Line 9:
+    } = Punctuation1

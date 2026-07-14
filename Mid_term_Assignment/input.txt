@@ -1,0 +1,9 @@
+void m1(string apple);
+int main(){
+    float y;
+    int x;
+    cout << "hello";
+    x = 5;
+    y = 2.5;
+    return x + y;
+}
